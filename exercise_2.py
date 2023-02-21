@@ -7,7 +7,5 @@ def calculaRadio(radio):
     area = pi * (radio ** 2)
     return area
 
-
-
 radio = calculaRadio(int(input("Ingrese el radio del area a calcular:")))
 print(radio)
