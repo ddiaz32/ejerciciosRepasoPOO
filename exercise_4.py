@@ -1,6 +1,5 @@
 #Escribir un programa que determine si un número dado es par o impar.
 
-
 def verNumPar(numero):
     if numero % 2 == 0 :
         print("El numero es par")
