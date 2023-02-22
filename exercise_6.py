@@ -11,5 +11,5 @@ list=[5,10,15,20,25]
 
 sumaT=sumaLista(list)
 
-print("La suma total es:",sumaT)
+print("\33[1m"+"La suma total es:"+ "\033[0m",sumaT)
     
